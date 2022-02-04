@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/declension-case/static/css/main.0d8e94f8.css",
+    "main.js": "/declension-case/static/js/main.605cacc2.js",
+    "index.html": "/declension-case/index.html",
+    "main.0d8e94f8.css.map": "/declension-case/static/css/main.0d8e94f8.css.map",
+    "main.605cacc2.js.map": "/declension-case/static/js/main.605cacc2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0d8e94f8.css",
+    "static/js/main.605cacc2.js"
+  ]
+}
